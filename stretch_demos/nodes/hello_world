@@ -232,8 +232,8 @@ class HelloWorldNode(hm.HelloNode):
         
         self.letter_h()
         self.space()
-        self.letter_e()
-        self.space()
+        #self.letter_e()
+        #self.space()
         self.letter_l()
         self.space()
         self.letter_l()
