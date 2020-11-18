@@ -230,8 +230,8 @@ class HelloWorldNode(hm.HelloNode):
 
         self.align_to_surface()
         
-        self.letter_h()
-        self.space()
+        #self.letter_h()
+        #self.space()
         #self.letter_e()
         #self.space()
         self.letter_l()
